@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I'm Luiz Felipe Viana! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></h1>
-<h3 align="center">An enthusiastic 22-year-old brazilian technology enthusiast with an unwavering passion for back-end development.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1>Hi, I'm Luiz Felipe Viana! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></h1>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z4OHhzcjE4Zmx5Z21lNjZzODc1cTRudGxsM2F2cXBzajQ3bHZ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 ## Skills
@@ -27,6 +26,5 @@
 
 
 ## Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=LuizVian4&show_icons=true&theme=onedark" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizVian4" /></p>
+<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=LuizVian4&show_icons=true&theme=onedark" /></p>
+<p><img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizVian4&layout=compact&theme=onedark" /></p>
