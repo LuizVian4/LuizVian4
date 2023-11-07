@@ -1,4 +1,4 @@
-<h1>Hi, I'm Luiz Felipe Viana! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></h1>
+<h1>Hi, I'm Luiz Felipe Viana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></h1>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z4OHhzcjE4Zmx5Z21lNjZzODc1cTRudGxsM2F2cXBzajQ3bHZ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
