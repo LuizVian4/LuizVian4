@@ -1,31 +1,27 @@
 # 👨‍💻 Luiz Felipe Viana
-## Software Engineer | Backend Developer | Cloud Specialist
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z4OHhzcjE4Zmx5Z21lNjZzODc1cTRudGxsM2F2cXBzajQ3bHZ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-</div>
+## Software Engineer | Backend | Java | Spring | AWS | Microservices | React
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Sou um **Software Engineer** apaixonado por desenvolvimento backend, arquitetura de sistemas e tecnologias cloud. Com experiência em Java, Spring Boot e AWS, busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores.
+I'm a **Software Engineer** passionate about backend development, system architecture, and cloud technologies. With experience in Java, Spring Boot, and AWS, I constantly seek to enhance my skills and contribute to innovative projects.
 
-### 🎯 Foco Principal
-- **Backend Development** com Java/Spring Boot
-- **Cloud Architecture** na AWS
-- **API Development** e integração de sistemas
-- **Database Design** e otimização
-- **DevOps** e CI/CD
+### 🎯 Main Focus
+- **Backend Development** with Java/Spring Boot
+- **Cloud Architecture** on AWS
+- **API Development** and system integration
+- **Database Design** and optimization
+- **DevOps** and CI/CD
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Tech Stack
 
 ### **Backend & APIs**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Micronaut](https://img.shields.io/badge/Micronaut-3C72A0?style=for-the-badge&logo=micronaut&logoColor=white)
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
 ### **Cloud & DevOps**
@@ -38,12 +34,13 @@ Sou um **Software Engineer** apaixonado por desenvolvimento backend, arquitetura
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Frontend**
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
 ---
 
-## 📊 Métricas e Estatísticas
+## 📊 Metrics & Statistics
 
 <div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=LuizVian4&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117" />
@@ -56,26 +53,26 @@ Sou um **Software Engineer** apaixonado por desenvolvimento backend, arquitetura
 
 ---
 
-## 🏆 Projetos em Destaque
+## 🏆 Featured Projects
 
-### 🔐 Sistema de Autenticação JWT
-- **Tecnologias**: Java, Spring Boot, JWT, MySQL
-- **Descrição**: API RESTful com autenticação e autorização JWT
-- **Status**: ✅ Concluído
+### 🔐 JWT Authentication System
+- **Technologies**: Java, Spring Boot, JWT, MySQL
+- **Description**: RESTful API with JWT authentication and authorization
+- **Status**: ✅ Completed
 
-### ☁️ Aplicação Cloud-Native
-- **Tecnologias**: Spring Boot, AWS, PostgreSQL
-- **Descrição**: Sistema escalável na nuvem com arquitetura microserviços
-- **Status**: 🚧 Em desenvolvimento
+### ☁️ Cloud-Native Application
+- **Technologies**: Spring Boot, AWS, PostgreSQL
+- **Description**: Scalable cloud system with microservices architecture
+- **Status**: 🚧 In Development
 
-### 📱 API RESTful
-- **Tecnologias**: Java, Spring Boot, MongoDB
-- **Descrição**: API para gerenciamento de dados com documentação Swagger
-- **Status**: ✅ Concluído
+### 📱 RESTful API
+- **Technologies**: Java, Spring Boot, MongoDB
+- **Description**: Data management API with Swagger documentation
+- **Status**: ✅ Completed
 
 ---
 
-## 📈 Contribuições e Atividade
+## 📈 Contributions & Activity
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizVian4&theme=onedark" />
@@ -85,7 +82,7 @@ Sou um **Software Engineer** apaixonado por desenvolvimento backend, arquitetura
 
 ---
 
-## 🤝 Conecte-se Comigo
+## 🤝 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luizfelipeviana/" target="_blank">
@@ -98,9 +95,9 @@ Sou um **Software Engineer** apaixonado por desenvolvimento backend, arquitetura
 
 ---
 
-## 📫 Entre em Contato
+## 📫 Get In Touch
 
-Estou sempre aberto a novas oportunidades e colaborações! Se você tem um projeto interessante ou gostaria de discutir tecnologia, não hesite em entrar em contato.
+I'm always open to new opportunities and collaborations! If you have an interesting project or would like to discuss technology, don't hesitate to reach out.
 
 **Email**: luizviana.mn@gmail.com  
 **LinkedIn**: [Luiz Felipe Viana](https://www.linkedin.com/in/luizfelipeviana/)
